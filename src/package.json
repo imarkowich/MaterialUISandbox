@@ -1,0 +1,19 @@
+{
+  "name": "material-ui",
+  "main": "index.tsx",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@material-ui/utils": "4.11.3",
+    "@mui/material": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "recoil": "0.7.7",
+    "typescript": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
